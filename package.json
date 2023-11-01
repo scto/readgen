@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "njre": "0.2.0",
-    "shelljs": "0.8.4"
+    "shelljs": "0.8.5"
   },
   "license": "ISC",
   "name": "readgen-cli",
